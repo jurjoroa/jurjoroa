@@ -24,8 +24,8 @@ Bachelors of Arts: **Public Policy**
 *Complutense University of Madrid*<br>
 Academic exchange in 2019: Faculty of Political Science and Sociology
 
-<img height="25" width="190"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/2560px-Hertie_School_of_Governance_logo.svg.png"/>
+<img height="30" width="30"
+  src="figs/hertie.png">
 
 Master of Science in Data Science for Public Policy (Currently Studying)
 
