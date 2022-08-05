@@ -18,7 +18,6 @@
 <div> 
 
 ## Skills
-<div style="display: inline_block"><br>
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png">
