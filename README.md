@@ -25,8 +25,8 @@ Bachelors of Arts: **Public Policy**
 Academic exchange in 2019: Faculty of Political Science and Sociology
 
 <img height="40" width="50"
-  src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Hertie_School_of_Governance_Logo_2017.svg/2560px-Hertie_School_of_Governance_Logo_2017.svg.png"/>
-*Hertie School of Governance*<br>
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Hertie_School_of_Governance_logo.svg/2560px-Hertie_School_of_Governance_logo.svg.png"/>
+
 Studying: Master of Science in Data Science for Public Policy
 
 
