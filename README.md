@@ -1,6 +1,6 @@
-
-<div align="center">
+<center>
 ## Jorge Roa
+</center>
 <div align="center">
   <a href="https://github.com/jurjoroa">
   <img height="140em"" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
