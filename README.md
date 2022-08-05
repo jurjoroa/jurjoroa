@@ -14,9 +14,9 @@
 </div>
   
   ##
- 
+## Skills 
 <div> 
-## Skills
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
