@@ -2,10 +2,10 @@
 ## Jorge Roa
 <div align="center">
   <a href="https://github.com/jurjoroa">
-  <img height="210" width="280" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="210" width="280"
+  <img height="180em"" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="180em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="210" width="280"
+  <img height="180em" 
   src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=prussian&hide_border=true"/>
 
 </div>
