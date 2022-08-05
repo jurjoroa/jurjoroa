@@ -16,8 +16,13 @@
 
 <img height="40" width="30"
   src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_CIDE.png"/>
-*2020 Center for Research and Teaching in Economics*<br>
+*Center for Research and Teaching in Economics*<br>
 Bachelors of Arts: **Public Policy** 
+
+<img height="40" width="30"
+  src="https://www.estudiaradistancia.es/logos/original/logo-universidad-complutense-de-madrid.png"/>
+*Complutense University of Madrid*<br>
+Academic exchange in 2019: Faculty of Political Science and Sociology
 
 </div>
 
