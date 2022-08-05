@@ -2,9 +2,11 @@
 ## Jorge Roa
 <div align="center">
   <a href="https://github.com/jurjoroa">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=prussian&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
