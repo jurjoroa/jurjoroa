@@ -2,10 +2,10 @@
 ## Jorge Roa
 <div align="center">
   <a href="https://github.com/jurjoroa">
-  <img height="180em"" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
-   <img height="100em"
+  <img height="140em"" src="https://github-readme-stats.vercel.app/api?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&count_private=true"/>
+   <img height="140em"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=prussian&hide_border=true"/>
-    <img height="180em" 
+    <img height="140em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
  
 
@@ -15,7 +15,8 @@
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png">
-  <img align="center" alt="jurjoroa" height="30" width="30" src="https://img.icons8.com/color/452/tableau-software.png"> 
+  <img align="center" alt="jurjoroa" height="30" width="30" src="https://img.icons8.com/color/452/tableau-software.png">
+    <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg"> 
 
   
 </div>
