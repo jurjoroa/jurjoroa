@@ -7,8 +7,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
    <img height="160em"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=prussian&hide_border=true"/>
-       <img height="160em"
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
   
                                                                                                                                      
