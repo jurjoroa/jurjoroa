@@ -7,7 +7,7 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=prussian&show_icons=true&hide_border=true&layout=compact"/>
    <img height="160em"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=prussian&hide_border=true"/>
-       <img height="200em"
+       <img height="160em"
   src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </div>
   
@@ -71,4 +71,6 @@ Master of Science in Data Science for Public Policy (Currently Studying)
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=jurjoroa&icon=0&color=1)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img height = 30px, src="https://visitcount.itsvg.in/api?id=jurjoroa&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
