@@ -4,9 +4,9 @@
 
 <div align="center">
   <a href="https://github.com/jurjoroa">
-        <img height="200em" 
+        <img height="180em" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurjoroa&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-   <img height="200em"
+   <img height="180em"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=algolia&hide_border=false"/>
 </div>
  
