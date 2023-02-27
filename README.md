@@ -34,7 +34,8 @@ Master of Science in Data Science for Public Policy (Currently Studying)
 
 </div>
   
-  ##
+<hr style="border:2px solid blue">
+
 ## Skills :computer:
 <div> 
 
@@ -57,7 +58,8 @@ Master of Science in Data Science for Public Policy (Currently Studying)
   
 </div>
   
-  ##
+<hr style="border:2px solid blue">
+  
 ## Contact :mailbox:
 <div> 
 
