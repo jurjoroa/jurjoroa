@@ -2,13 +2,6 @@
 ## Jorge Roa 
 
 
-<div align="center">
-  <a href="https://github.com/jurjoroa">
-   <img height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jurjoroa&theme=algolia&hide_border=false"/>
-</div>
- 
-
 <hr style="border:2px solid blue">
 
 ## Skills :computer:
