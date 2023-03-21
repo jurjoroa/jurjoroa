@@ -9,31 +9,6 @@
 </div>
  
 
- 
-<hr style="border:2px solid blue">
-
-## Education :books:
-
-<img height="40" width="30"
-  src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logo_CIDE.png"/>
-*Center for Research and Teaching in Economics*<br>
-Bachelors of Arts: **Public Policy** 
-
-<img height="40" width="30"
-  src="https://www.estudiaradistancia.es/logos/original/logo-universidad-complutense-de-madrid.png"/>
-*Complutense University of Madrid*<br>
-Academic exchange in 2019: Faculty of Political Science and Sociology
-
-<img height="30" width="40"
-  src="figs/hertie.png">
-*Hertie School of Governance*<br>
-M.Sc. in Data Science for Public Policy (Currently Studying)
-
-
-</div>
-
-</div>
-  
 <hr style="border:2px solid blue">
 
 ## Skills :computer:
