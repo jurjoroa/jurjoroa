@@ -2,16 +2,13 @@
 ## Jorge Roa 
 
 
-<hr style="border:2px solid blue">
-
-## Skills :computer:
 <div> 
 
 <div style="display: inline_block"><br>
 
   <img align="center" alt="jurjoroa" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">  
    <img align="center" alt="jurjoroa" height="30" width="30" src="https://comunidadbioinfo.github.io/cdsb2021_workflows/img/shiny_1.png">  
-     <img align="center" alt="jurjoroa" height="30" width="130" src="https://quarto.org/quarto.png">  
+     <img align="center" alt="jurjoroa" height="37" width="35" src="figs/quarto.png">  
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
       <img align="center" alt="jurjoroa" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">  
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">  
@@ -26,7 +23,7 @@
   
 </div>
   
-<hr style="border:2px solid blue">
+
   
 ## Contact :mailbox:
 <div> 
