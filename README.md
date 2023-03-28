@@ -1,8 +1,19 @@
 
-## Jorge Roa 
+# Jorge Roa 
+
+Hello! I'm Jorge! I have a background in public policy and a passion for using data to inform decision-making. My interests include:
+
+- Data Science for Public Policy: I'm currently pursuing a Master's degree in Data Science for Public Policy at Hertie School in Berlin, Germany. I believe that data science can be a powerful tool for addressing complex public policy challenges, and I'm excited to continue exploring this field.
+
+- Public Health: In recent years, I had the opportunity to work on interesting projects related to cancer research, implementation of bayesian models and survival models. 
+
+ - Crime and Violence: I'm particularly interested in using data to understand patterns of violence and crime. I believe that data science can help us identify strategies for reducing violence and improving public safety.
+
+- Teaching and Education: I'm passionate about teaching. I've worked as a teaching assistant for courses on quantitative methods and public policy evaluation. I'm also the founder of the Hertie Coding Club, a space where students can learn programming skills for data analysis, wrangling and public policy. 
 
 
-<div> 
+
+## Skills
 
 <div style="display: inline_block"><br>
 
@@ -15,7 +26,8 @@
    <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png">  
   <img align="center" alt="jurjoroa" height="30" width="30" src="https://img.icons8.com/color/452/tableau-software.png"> 
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png">  
-    <img align="center" alt="jurjoroa" height="30" width="30" src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png">  
+    <img align="center" alt="jurjoroa" height="30" width="30" src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png">
+      <img align="center" alt="jurjoroa" height="30" width="30" src="figs/survey.png">  
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/480px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png"> 
 
     
