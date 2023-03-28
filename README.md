@@ -5,10 +5,6 @@ Hello! I'm Jorge! I have a background in public policy and a passion for using d
 
 - Data Science for Public Policy: I'm currently pursuing a Master's degree in Data Science for Public Policy at Hertie School in Berlin, Germany. I believe that data science can be a powerful tool for addressing complex public policy challenges, and I'm excited to continue exploring this field.
 
-- Public Health: In recent years, I had the opportunity to work on interesting projects related to cancer research, implementation of bayesian models and survival models. 
-
- - Crime and Violence: I'm particularly interested in using data to understand patterns of violence and crime. I believe that data science can help us identify strategies for reducing violence and improving public safety.
-
 - Teaching and Education: I'm passionate about teaching. I've worked as a teaching assistant for courses on quantitative methods and public policy evaluation. I'm also the founder of the Hertie Coding Club, a space where students can learn programming skills for data analysis, wrangling and public policy. 
 
 
