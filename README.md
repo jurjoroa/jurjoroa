@@ -1,11 +1,13 @@
 
 # Jorge Roa 
 
-Hello! I'm Jorge! I have a background in public policy and a passion for using data to inform decision-making. My interests include:
+Hello! I'm Jorge!  I have a background in public policy and a passion for using data to inform decision-making. My interests include:
 
 - Data Science for Public Policy: I'm currently pursuing a Master's degree in Data Science for Public Policy at Hertie School in Berlin, Germany. I believe that data science can be a powerful tool for addressing complex public policy challenges, and I'm excited to continue exploring this field.
 
 - Teaching and Education: I'm passionate about teaching. I've worked as a teaching assistant for courses on quantitative methods and public policy evaluation. I'm also the founder of the Hertie Coding Club, a space where students can learn programming skills for data analysis, wrangling and public policy. 
+
+- I'm a member of the Society for Medical Decision Making (SMDM) as a trainee as well as a member of the Stanford Data Science x Decision Science [DS)^2
 
 
 
