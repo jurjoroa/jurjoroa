@@ -3,9 +3,9 @@
 
 Hello! I'm Jorge! I have a B.A in Public Policy and a passion for using data to inform decision-making. My interests include:
 
-- Data Science for Public Policy: I'm in my second year of the Master's degree in Data Science for Public Policy at Hertie School in Berlin, Germany. I believe that data science can be a powerful tool for addressing complex public policy challenges, and I'm excited to continue exploring this field. My interest is use data science as a tool to inform decision-making and maximize the impact of a policy. 
+- Data Science for Public Policy: I'm in my second year of the Master's degree in Data Science for Public Policy at Hertie School in Berlin, Germany. I believe that data science can be a powerful tool for addressing complex public policy challenges, and I'm excited to continue exploring this field. My interest is use data science as a tool to inform decision-making and maximize the impact of a policy in real and complex environments. 
 
-- Work: 
+- Work: I'm involve in multiple research projects. For example, I've been estimating the force of infection of the bacteria <i> Helicobacter Pylori </i>
 
 - Teaching and Education: I'm passionate about teaching. I've worked as a teaching assistant for courses on quantitative methods and public policy evaluation. I'm also the founder of the Hertie Coding Club, a space where students can learn programming skills for data analysis, wrangling and public policy. 
 
