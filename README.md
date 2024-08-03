@@ -20,8 +20,8 @@
     </td>
     <!-- Fourth column: Empty except for LMU information at the bottom -->
     <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
-      <img height="200" src="figs/lmu.png" /><br>
-      <p><strong>Jorge Roa</strong><br>Fellow at LMU</p>
+      <img height="100" src="figs/lmu.png" /><br>
+      <p><strong>Data Science for Social Good (DSSGx) </strong><br>Fellow at LMU</p>
     </td>
   </tr>
 </table>
