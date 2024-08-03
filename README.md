@@ -5,21 +5,21 @@
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
     <!-- First column: Your picture -->
-    <td style="border: none;">
+    <td style="border: 1px solid white;">
       <img height="300" width="300" src="figs/jurjo.png" />
     </td>
     <!-- Second column: Images of Bachelor's and Master's -->
-    <td style="border: none;">
-      <img height="100" src="figs/lmu.png" /><br>
-      <img height="100" src="figs/lmu.png" />
+    <td style="border: 1px solid white;">
+      <img height="100" src="figs/bachelors.png" /><br>
+      <img height="100" src="figs/masters.png" />
     </td>
     <!-- Third column: Titles for Bachelor's and Master's -->
-    <td style="border: none;">
+    <td style="border: 1px solid white;">
       <p><strong>Bachelor's Degree</strong><br>University Name</p>
       <p><strong>Master's Degree</strong><br>University Name</p>
     </td>
     <!-- Fourth column: Empty except for LMU information at the bottom -->
-    <td style="border: none; vertical-align: bottom; text-align: center;">
+    <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
       <img height="200" src="figs/lmu.png" /><br>
       <p><strong>Jorge Roa</strong><br>Fellow at LMU</p>
     </td>
