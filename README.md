@@ -1,6 +1,9 @@
 
 # Jorge Roa 
 
+<div align="center">
+  <img height="150" src="figs/jurjo.jpg"  />
+</div>
 
 
 ## Skills
