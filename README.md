@@ -6,7 +6,7 @@
   <tr>
     <!-- First column: Your picture -->
     <td style="border: none;">
-      <img height="400" src="figs/jurjo.png" />
+      <img height="300" src="figs/jurjo.png" />
     </td>
     <!-- Second column: Images of Bachelor's and Master's -->
     <td style="border: none;">
