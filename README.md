@@ -1,15 +1,35 @@
 
 # Jorge Roa 
 
-<div align="left">
-  <img height="400" src="figs/jurjo.png" />
-</div>
 
-<div align="right" style="text-align:center;">
-  <img height="200" src="path_to_lmu_image.jpg" />
-  <p><strong>Jorge Roa</strong><br>
-  Fellow at LMU</p>
-</div>
+<table style="border-collapse: collapse; width: 100%; border: none;">
+  <tr>
+    <!-- First column: Your picture -->
+    <td style="border: none;">
+      <img height="400" src="figs/jurjo.png" />
+    </td>
+    <!-- Second column: Images of Bachelor's and Master's -->
+    <td style="border: none;">
+      <img height="100" src="figs/lmu.png" /><br>
+      <img height="100" src="figs/lmu.png" />
+    </td>
+    <!-- Third column: Titles for Bachelor's and Master's -->
+    <td style="border: none;">
+      <p><strong>Bachelor's Degree</strong><br>University Name</p>
+      <p><strong>Master's Degree</strong><br>University Name</p>
+    </td>
+    <!-- Fourth column: Empty except for LMU information at the bottom -->
+    <td style="border: none; vertical-align: bottom; text-align: center;">
+      <img height="200" src="figs/lmu.png" /><br>
+      <p><strong>Jorge Roa</strong><br>Fellow at LMU</p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 ## Skills
 
