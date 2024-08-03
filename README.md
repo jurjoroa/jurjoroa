@@ -1,10 +1,15 @@
 
 # Jorge Roa 
 
-<div align="center">
-  <img height="150" src="figs/jurjo.png"  />
+<div align="left">
+  <img height="400" src="figs/jurjo.png" />
 </div>
 
+<div align="right" style="text-align:center;">
+  <img height="200" src="path_to_lmu_image.jpg" />
+  <p><strong>Jorge Roa</strong><br>
+  Fellow at LMU</p>
+</div>
 
 ## Skills
 
