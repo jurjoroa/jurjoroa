@@ -15,8 +15,8 @@
     </td>
     <!-- Third column: Titles for Bachelor's and Master's -->
     <td style="border: 1px solid white;">
-      <p><strong>Bachelor's Degree</strong><br>University Name</p>
-      <p><strong>Master's Degree</strong><br>University Name</p>
+      <p><strong>B.A. Public Policy </strong><br>Center for Research and Teaching in Economics</p>
+      <p><strong>M.Sc. Data Science for Public Policy </strong><br>Hertie School</p>
     </td>
     <!-- Fourth column: Empty except for LMU information at the bottom -->
     <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
