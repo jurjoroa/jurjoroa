@@ -1,17 +1,17 @@
 
 # Jorge Roa 
 
-
 <table style="border-collapse: collapse; width: 100%; border: none;">
   <tr>
     <!-- First column: Your picture -->
     <td style="border: 1px solid white;">
-      <img height="300" width="300" src="figs/jurjo.png" />
+      <img height="250" width="300" src="figs/jurjo.png" />
     </td>
     <!-- Second column: Images of Bachelor's and Master's -->
     <td style="border: 1px solid white;">
-      <img height="100" src="figs/bachelors.png" /><br>
-      <img height="100" src="figs/masters.png" />
+      <img height="40" src="figs/cide.png" style="margin-bottom: 10px;" /><br>
+      <div style="height: 10px;"></div>
+      <img height="40" src="figs/hertie.png" />
     </td>
     <!-- Third column: Titles for Bachelor's and Master's -->
     <td style="border: 1px solid white;">
@@ -25,6 +25,9 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
 
