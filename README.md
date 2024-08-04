@@ -7,24 +7,21 @@
     <td style="border: 1px solid white;">
       <img height="250" width="300" src="figs/jurjo.png" />
     </td>
-    <!-- Second column: Images of Bachelor's and Master's -->
+    <!-- Second and Third columns combined: Images and Titles for Bachelor's and Master's -->
     <td style="border: 1px solid white;">
-      <img height="40" src="figs/cide.png" style="margin-bottom: 10px;" /><br>
-      <div style="height: 10px;"></div>
-      <img height="40" src="figs/hertie.png" />
-    </td>
-    <!-- Third column: Titles for Bachelor's and Master's -->
-    <td style="border: 1px solid white;">
+      <img height="25" src="figs/cide.png" style="margin-bottom: 10px;" />
       <p><strong>B.A. Public Policy </strong><br>Center for Research and Teaching in Economics</p>
+      <img height="20" src="figs/hertie.png" style="margin-top: 10px;" />
       <p><strong>M.Sc. Data Science for Public Policy </strong><br>Hertie School</p>
     </td>
     <!-- Fourth column: Empty except for LMU information at the bottom -->
     <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
       <img height="100" src="figs/lmu.png" /><br>
-      <p><strong>Data Science for Social Good (DSSGx) </strong><br>Fellow at LMU</p>
+      <p><strong>Data Science for Social Good (DSSGx) </strong><br>Fellow at Ludwig Maximilians Universität München</p>
     </td>
   </tr>
 </table>
+
 
 
 
