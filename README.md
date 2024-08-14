@@ -5,7 +5,6 @@
   <tr>
     <!-- First column: Your picture -->
     <td style="border: 1px solid white;">
-      <img height="250" width="300" src="figs/jurjo.png" />
     </td>
     <!-- Second and Third columns combined: Images and Titles for Bachelor's and Master's -->
     <td style="border: 1px solid white;">
