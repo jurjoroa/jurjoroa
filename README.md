@@ -1,10 +1,12 @@
 
 # Jorge Roa 
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border-collapse: collapse; width: 100%; border: none; color: white;">
   <tr>
-    <!-- First column: Your picture -->
-    <td style="border: 1px solid white;">
+        <!-- Fourth column: Empty except for LMU information at the bottom -->
+    <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
+      <img height="40" src="https://med.stanford.edu/content/dam/sm/identity/images/stanford-medicine/looks/logos/SM_Web_vert_LG.png" /><br>
+      <p><strong>Software Developer</strong><br> Health Policy <br> Stanford University School of Medicine</p>
     </td>
     <!-- Second and Third columns combined: Images and Titles for Bachelor's and Master's -->
     <td style="border: 1px solid white;">
@@ -13,11 +15,7 @@
       <img height="20" src="figs/hertie.png" style="margin-top: 10px;" />
       <p><strong>M.Sc. Data Science for Public Policy </strong><br>Hertie School</p>
     </td>
-    <!-- Fourth column: Empty except for LMU information at the bottom -->
-    <td style="border: 1px solid white; vertical-align: bottom; text-align: center;">
-      <img height="100" src="figs/lmu.png" /><br>
-      <p><strong>Data Science for Social Good (DSSGx) </strong><br>Fellow at Ludwig Maximilians Universität München</p>
-    </td>
+
   </tr>
 </table>
 
