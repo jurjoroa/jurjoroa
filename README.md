@@ -39,7 +39,7 @@
   <img align="center" alt="jurjoroa" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
       <img align="center" alt="jurjoroa" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">  
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">  
-   <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_stata_icon_130148.png">  
+   <img align="center" alt="jurjoroa" height="25" width="90" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Stata_logo_med_blue.png">  
   <img align="center" alt="jurjoroa" height="30" width="30" src="https://img.icons8.com/color/452/tableau-software.png"> 
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://cdn.overleaf.com/img/ol-brand/overleaf_og_logo.png">  
     <img align="center" alt="jurjoroa" height="30" width="30" src="https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png">
@@ -52,7 +52,3 @@
   
 <br>
 
-
-<a href="https://visitcount.itsvg.in">
-  <img height = 20px, src="https://visitcount.itsvg.in/api?id=jurjoroa&label=Profile%20Views&color=1&icon=5&pretty=false" />
-</a>
