@@ -15,6 +15,7 @@ I build calibration pipelines, R packages, and microsimulation tooling (SimCRC) 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Stata](https://img.shields.io/badge/Stata-1A476F?style=for-the-badge&logo=stata&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,6 +33,12 @@ I build calibration pipelines, R packages, and microsimulation tooling (SimCRC) 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-007AC2?style=for-the-badge&logo=arcgis&logoColor=white)
 
+**AI & dev tools**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 ---
 
 ## Featured work
@@ -39,7 +46,7 @@ I build calibration pipelines, R packages, and microsimulation tooling (SimCRC) 
 - **[ggpop](https://CRAN.R-project.org/package=ggpop)** — a ggplot2 extension that renders FontAwesome icons as plot points. On CRAN.
 - **SimCRC-R** — R tooling for the SimCRC colorectal cancer microsimulation model, including calibrated-parameter processing and transition probability utilities.
 - **H. pylori force-of-infection** — Bayesian modeling work on *H. pylori* transmission dynamics in the Americas (in submission).
+
 ---
 
 <sub>Open to collaboration on health economic modeling, R package development, and reproducible research tooling.</sub>
-
